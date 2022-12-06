@@ -1,0 +1,8 @@
+.exercise {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 30px;
+  padding: 20px;
+  border: 3px rgb(189, 180, 180) solid;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+.filter-fruits {
+  font-family: sans-serif;
+  flex-direction: column;
+}
+
+.checklist-items {
+  display: flex;
+  align-items: center;
+}
+
+.checked-item {
+  text-decoration: line-through;
+}
